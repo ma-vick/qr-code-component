@@ -27,4 +27,4 @@ Tive algumas dificuldades em centralizar o card e manter responsivo, porém noss
 
 Me diverti bastante fazendo este projeto e com certeza consegui novos conhecimentos.
 
-[Acesse aqui o projeto.](https://ma-vick.github.io/qr-code-component/)
+🔗 [Acesse aqui o projeto.](https://ma-vick.github.io/qr-code-component/)
