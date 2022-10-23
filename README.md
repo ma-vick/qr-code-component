@@ -6,6 +6,10 @@
 
 Este é o meu primeiro desafio do Frontend Mentor.
 
+🔗 [Acesse aqui o projeto.](https://ma-vick.github.io/qr-code-component/)
+
+🔗 [URL Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-using-flexbox-I7FkxiMn30)
+
 O [Frontend Mentor](https://www.frontendmentor.io) propõe desafios de Frontend para testar e melhorar suas habilidades. Experimente!
 
 **Para fazer este desafio são necessários conhecimentos em HTML e CSS.**
@@ -27,4 +31,3 @@ Tive algumas dificuldades em centralizar o card e manter responsivo, porém noss
 
 Me diverti bastante fazendo este projeto e com certeza consegui novos conhecimentos.
 
-🔗 [Acesse aqui o projeto.](https://ma-vick.github.io/qr-code-component/)
