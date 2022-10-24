@@ -10,7 +10,7 @@ Este é o meu primeiro desafio do Frontend Mentor.
 
 🔗 [URL Solution](https://www.frontendmentor.io/solutions/qr-code-component-responsive-using-flexbox-I7FkxiMn30)
 
-O [Frontend Mentor](https://www.frontendmentor.io) propõe desafios de Frontend para testar e melhorar suas habilidades. Experimente!
+- O [Frontend Mentor](https://www.frontendmentor.io) propõe desafios de Frontend para testar e melhorar suas habilidades. Experimente!
 
 **Para fazer este desafio são necessários conhecimentos em HTML e CSS.**
 
@@ -25,9 +25,8 @@ Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o des
 Fiz este projeto com o auxílio de meu instrutor [@ruanbindaco](https://github.com/ruanbindaco), inclusive, muito obrigada!
 
 Como iniciei meus estudos em HTML e CSS recentemente, tive *algumas (se não tantas) 😁*  dificuldades.
-Inicialmente pensei em fazer o card dentro de uma tag main, porém descobri que é melhor ser feito com uma div.
 
-Tive algumas dificuldades em centralizar o card e manter responsivo, porém nosso querido **flexbox** me ajudou nisso.
+Minha principal dificuldade foi centralizar o card corretamente, porém ao postar minha solução na comunidade FrontEnd Mentor recebi um feedback maravilhoso com dicas acompanhadas de artigos, e aprendi a centralizar corretamente o card usando o flexbox.
 
 Me diverti bastante fazendo este projeto e com certeza consegui novos conhecimentos.
 
